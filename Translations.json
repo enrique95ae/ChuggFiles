@@ -1,0 +1,30 @@
+[
+  {
+    "Id" : "001",
+    "Key"  : "App.General.Title",
+    "ValueEnglish" : "Chugg",
+    "ValueSpanish" : "Chugg"
+  },
+  
+    {
+    "Id" : "002",
+    "Key"  : "App.General.Yes",
+    "ValueEnglish" : "Yes",
+    "ValueSpanish" : "Si"
+  },
+  
+    {
+    "Id" : "003",
+    "Key"  : "App.General.No",
+    "ValueEnglish" : "No",
+    "ValueSpanish" : "No"
+  },
+  
+    {
+    "Id" : "004,
+    "Key"  : "App.General.Play",
+    "ValueEnglish" : "Play",
+    "ValueSpanish" : "Jugar
+  }
+  
+]
