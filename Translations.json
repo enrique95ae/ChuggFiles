@@ -21,10 +21,10 @@
   },
   
     {
-    "Id" : "004,
+    "Id" : "004",
     "Key"  : "App.General.Play",
     "ValueEnglish" : "Play",
-    "ValueSpanish" : "Jugar
+    "ValueSpanish" : "Jugar"
   }
   
 ]
