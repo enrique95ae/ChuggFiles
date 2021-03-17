@@ -32,6 +32,13 @@
     "Key"  : "App.General.Settings",
     "ValueEnglish" : "Settings",
     "ValueSpanish" : "Ajustes"
+  },
+  
+        {
+    "Id" : "006",
+    "Key"  : "App.General.Help",
+    "ValueEnglish" : "Help",
+    "ValueSpanish" : "Ayuda"
   }
   
 ]
