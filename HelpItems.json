@@ -1,0 +1,20 @@
+  
+[
+  {
+    "Key"  : "Contact",
+    "en" : "Contact",
+    "es" : "Contacto"
+  },
+  
+  {
+    "Key"  : "Faq",
+    "en" : "FAQ",
+    "es" : "FAQ"
+  },
+  
+    {
+    "Key"  : "Disclaimer",
+    "en" : "Disclaimer",
+    "es" : "Responsabilidad"
+  }
+]
