@@ -25,6 +25,13 @@
     "Key"  : "App.General.Play",
     "ValueEnglish" : "Play",
     "ValueSpanish" : "Jugar"
+  },
+  
+      {
+    "Id" : "005",
+    "Key"  : "App.General.Settings",
+    "ValueEnglish" : "Settings",
+    "ValueSpanish" : "Ajustes"
   }
   
 ]
