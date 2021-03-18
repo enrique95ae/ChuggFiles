@@ -39,6 +39,27 @@
     "Key"  : "App.General.Help",
     "ValueEnglish" : "Help",
     "ValueSpanish" : "Ayuda"
+  },
+  
+  {
+    "Id" : "007",
+    "Key"  : "App.General.HelpFaq",
+    "ValueEnglish" : "Frequently Asked Questions",
+    "ValueSpanish" : "Preguntas Comunes"
+  },
+  
+    {
+    "Id" : "008",
+    "Key"  : "App.General.HelpToS",
+    "ValueEnglish" : "Terms of Service",
+    "ValueSpanish" : "Condiciones de uso"
+  },
+  
+      {
+    "Id" : "009",
+    "Key"  : "App.General.HelpContact",
+    "ValueEnglish" : "Contact",
+    "ValueSpanish" : "Contacto"
   }
   
 ]
