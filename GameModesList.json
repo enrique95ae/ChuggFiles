@@ -3,7 +3,7 @@
 [
   {
     "Id"  : "challenges.kingscup",
-    "Icon" : "\\U000f01a5",
+    "Icon" : "\U000f01a5",
     "Title" : "King's Cup",
     "Description" : "Cards are placed forming a 'doughnut' around a cup. Each card has a rule or action to be done. Turn by turn cards are drawn and players must do what the card indicates. Player drawing the 4th king drinks the loosers cup content.",
     "Spiciness" : 0,
