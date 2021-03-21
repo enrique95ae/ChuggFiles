@@ -60,6 +60,20 @@
     "Key"  : "App.General.HelpContact",
     "ValueEnglish" : "Contact",
     "ValueSpanish" : "Contacto"
+  },
+  
+        {
+    "Id" : "010",
+    "Key"  : "App.General.Continue",
+    "ValueEnglish" : "Continue",
+    "ValueSpanish" : "Continuar"
+  },
+  
+        {
+    "Id" : "011",
+    "Key"  : "App.General.Rules",
+    "ValueEnglish" : "Rules",
+    "ValueSpanish" : "Reglas"
   }
   
 ]
