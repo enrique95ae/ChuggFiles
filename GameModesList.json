@@ -3,6 +3,7 @@
 [
   {
     "Id"  : "challenges.kingscup",
+    "Icon" : "crown",
     "Title" : "King's Cup",
     "Description" : "Cards are placed forming a 'doughnut' around a cup. Each card has a rule or action to be done. Turn by turn cards are drawn and players must do what the card indicates. Player drawing the 4th king drinks the loosers cup content.",
     "Spiciness" : 0,
@@ -13,6 +14,7 @@
   
   {
     "Id"  : "challenges.neverhave",
+    "Icon" : "account-question",
     "Title" : "Never have I ever",
     "Description" : "The classic. Players start with 10 fingers up and put one down every time a question applies. When reaching certain number of fingers down pleayers drink. (see rules)",
     "Spiciness" : 3,
@@ -23,6 +25,7 @@
   
   {
     "Id"  : "challenges.powerhour",
+    "Icon" : "clock-fast",
     "Title" : "Power Hour",
     "Description" : "Choose a drink, every minute take one shot. Goal is to do it for a full hour.",
     "Spiciness" : 0,
