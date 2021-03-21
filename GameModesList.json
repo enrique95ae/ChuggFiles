@@ -7,7 +7,8 @@
     "Description" : "Cards are placed forming a 'doughnut' around a cup. Each card has a rule or action to be done. Turn by turn cards are drawn and players must do what the card indicates. Player drawing the 4th king drinks the loosers cup content.",
     "Spiciness" : 0,
     "MinPlayers" : 3,
-    "MaxPlayers" : 15
+    "MaxPlayers" : 15,
+    "Rules" : ""
   },
   
   {
@@ -16,7 +17,8 @@
     "Description" : "The classic. Players start with 10 fingers up and put one down every time a question applies. When reaching certain number of fingers down pleayers drink. (see rules)",
     "Spiciness" : 3,
     "MinPlayers" : 3,
-    "MaxPlayers" : 15
+    "MaxPlayers" : 15,
+    "Rules" : ""
   },
   
   {
@@ -25,6 +27,7 @@
     "Description" : "Choose a drink, every minute take one shot. Goal is to do it for a full hour.",
     "Spiciness" : 0,
     "MinPlayers" : 2,
-    "MaxPlayers" : 15
+    "MaxPlayers" : 15,
+    "Rules" : ""
   }
 ]
