@@ -14,6 +14,7 @@
     "Id"  : "challenges.neverhave",
     "Title" : "Never have I ever",
     "Description" : "The classic. Players start with 10 fingers up and put one down every time a question applies. When reaching certain number of fingers down pleayers drink. (see rules)",
+    "Spiciness" : 3,
     "MinPlayers" : 3,
     "MaxPlayers" : 15
   },
@@ -22,6 +23,7 @@
     "Id"  : "challenges.powerhour",
     "Title" : "Power Hour",
     "Description" : "Choose a drink, every minute take one shot. Goal is to do it for a full hour.",
+    "Spiciness" : 0,
     "MinPlayers" : 2,
     "MaxPlayers" : 15
   }
