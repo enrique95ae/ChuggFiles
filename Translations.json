@@ -116,6 +116,13 @@
     "Key"  : "App.General.Ok",
     "ValueEnglish" : "Ok",
     "ValueSpanish" : "Ok"
+  },
+  
+                      {
+    "Id" : "018",
+    "Key"  : "App.General.MaxPlayersReached",
+    "ValueEnglish" : "The max number of players for this gamemode has been reached.",
+    "ValueSpanish" : "Se ha alcanzado el maximo de jugadores para este modo de juego."
   }
   
 ]
