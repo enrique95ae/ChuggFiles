@@ -123,6 +123,13 @@
     "Key"  : "App.General.MaxPlayersReached",
     "ValueEnglish" : "The max number of players for this gamemode has been reached.",
     "ValueSpanish" : "Se ha alcanzado el maximo de jugadores para este modo de juego."
+  },
+  
+                        {
+    "Id" : "019",
+    "Key"  : "App.General.MorePlayersNeeded",
+    "ValueEnglish" : "This gamemode requeires more players",
+    "ValueSpanish" : "Este modo de juego necesita mas jugadores."
   }
   
 ]
