@@ -84,7 +84,7 @@
   },
   
             {
-    "Id" : "012",
+    "Id" : "013",
     "Key"  : "App.General.AddPlayer",
     "ValueEnglish" : "Add Player",
     "ValueSpanish" : "Añadir Jugador"
