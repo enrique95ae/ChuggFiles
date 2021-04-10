@@ -1,0 +1,75 @@
+    
+  
+[
+  {
+    "Id"  : "1",
+    "Title" : "Waterfall",
+    "Description" : "Todos empiezan a beber a la vez. El jugador seleccionado para cuando quiera. En sentido horario el siguiente jugador puede parar y así sucesivamente hasta llegar al último."
+  },
+  
+  {
+    "Id"  : "2",
+    "Title" : "Two = You",
+    "Description" : "El jugador seleccionado elige a alguien para beber."
+  },
+  
+  {
+    "Id"  : "3",
+    "Title" : "Three = Me",
+    "Description" : "El jugador seleccionado bebe."
+  },
+  
+    {
+    "Id"  : "4",
+    "Title" : "Four = Floor",
+    "Description" : "El último jugador en tocar el suelo bebe."
+  },
+  
+    {
+    "Id"  : "5",
+    "Title" : "Five = Guys",
+    "Description" : "Los chicos beben."
+  },
+  
+    {
+    "Id"  : "6",
+    "Title" : "Six = Chicks",
+    "Description" : "Las chicas beben."
+  },
+  
+    {
+    "Id"  : "7",
+    "Title" : "Seven = Heaven",
+    "Description" : "El último jugador en señalar al techo bebe."
+  },
+  
+    {
+    "Id"  : "8",
+    "Title" : "Eight = Mate",
+    "Description" : "El jugador seleccionado elige una persona. Cuando uno de los tenga que beber, el otro también lo hará para el resto de la partida."
+  },
+  
+    {
+    "Id"  : "9",
+    "Title" : "Nine = Rhyme",
+    "Description" : "El jugador seleccionado dice una palabra a su elección, en sentido horario los jugadores irán diciendo palabras que rimen. El primer jugador en decir una rima errónea, repetida o tardar mucho bebe."
+  },
+  
+    {
+    "Id"  : "10",
+    "Title" : "Categorías",
+    "Description" : "El jugador seleccionado elige una categoría de palabras (Por ejemplo marcas de zapatos). En sentido horario los jugadores irán diciendo palabras pertenecientes a la categoría. El primero en decir una errónea, repetida o tardar mucho, bebe."
+  },
+  
+    {
+    "Id"  : "11",
+    "Title" : "Regla",
+    "Description" : "El jugador seleccionado pone una regla que todos los jugadores deben seguir para el resto de la partida. Los jugadores que incumplan la norma beberán."
+  },
+  
+    {
+    "Id"  : "12",
+    "Title" : "El Rey",
+    "Description" : "El jugador seleccionado vierte un poco de su bebida en el vaso central."
+  }
+]
