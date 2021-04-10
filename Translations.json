@@ -95,6 +95,20 @@
     "Key"  : "App.General.PlayerName",
     "ValueEnglish" : "Player Name:",
     "ValueSpanish" : "Nombre del Jugador:"
+  },
+  
+                {
+    "Id" : "015",
+    "Key"  : "App.General.Error",
+    "ValueEnglish" : "Error",
+    "ValueSpanish" : "Error"
+  },
+  
+                  {
+    "Id" : "016",
+    "Key"  : "App.General.DuplicatedName",
+    "ValueEnglish" : "Name already entered, try with a different name!",
+    "ValueSpanish" : "Nombre en uso, prueba con otro nombre!"
   }
   
 ]
