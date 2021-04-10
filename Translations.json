@@ -109,6 +109,13 @@
     "Key"  : "App.General.DuplicatedName",
     "ValueEnglish" : "Name already entered, try with a different name!",
     "ValueSpanish" : "Nombre en uso, prueba con otro nombre!"
+  },
+  
+                    {
+    "Id" : "017",
+    "Key"  : "App.General.Ok",
+    "ValueEnglish" : "Ok",
+    "ValueSpanish" : "Ok"
   }
   
 ]
