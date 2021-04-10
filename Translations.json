@@ -81,6 +81,13 @@
     "Key"  : "App.General.Players",
     "ValueEnglish" : "Players",
     "ValueSpanish" : "Jugadores"
+  },
+  
+            {
+    "Id" : "012",
+    "Key"  : "App.General.AddPlayer",
+    "ValueEnglish" : "Add Player",
+    "ValueSpanish" : "Añadir Jugador"
   }
   
 ]
