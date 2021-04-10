@@ -74,6 +74,13 @@
     "Key"  : "App.General.Rules",
     "ValueEnglish" : "Rules",
     "ValueSpanish" : "Reglas"
+  },
+  
+          {
+    "Id" : "012",
+    "Key"  : "App.General.Players",
+    "ValueEnglish" : "Players",
+    "ValueSpanish" : "Jugadores"
   }
   
 ]
