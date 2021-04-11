@@ -130,6 +130,13 @@
     "Key"  : "App.General.MorePlayersNeeded",
     "ValueEnglish" : "This gamemode requeires more players",
     "ValueSpanish" : "Este modo de juego necesita mas jugadores."
-  }
+  },
+  
+                          {
+    "Id" : "020",
+    "Key"  : "App.General.EmptyName",
+    "ValueEnglish" : "Name can´t be empty!",
+    "ValueSpanish" : "No puedes dejar el nombre vacío."
+  } 
   
 ]
