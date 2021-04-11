@@ -4,7 +4,7 @@
   {
     "Id"  : "1",
     "Title" : "Waterfall",
-    "Description" : "Todos empiezan a beber a la vez. {0} para cuando quiera. En sentido horario el siguiente jugador puede parar y así sucesivamente hasta llegar al último."
+    "Description" : "{0}, empieza a beber cuando quiera, todos los jugadores lo haran a la vez. Tu decides cuando parar, una vez hayas parado, sn sentido horario el siguiente jugador puede parar y así sucesivamente hasta llegar al último."
   },
   
   {
