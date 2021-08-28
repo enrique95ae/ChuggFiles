@@ -102,6 +102,126 @@
     "Text" : "He finjido reirme de una broma que no entiendo.",
     "Spiciness" : 1
   },
+    
+     {
+        "Id"  : "18",
+    "Text" : "Me he liado con dos o mas personas en 24 horas.",
+    "Spiciness" : 3
+  },
+    
+         {
+        "Id"  : "19",
+    "Text" : "Me he acostado con dos o mas personas en 24 horas.",
+    "Spiciness" : 3
+  },
+    
+             {
+        "Id"  : "20",
+    "Text" : "Me he acostado con dos o mas personas a la vez.",
+    "Spiciness" : 3
+  },
+    
+                 {
+        "Id"  : "21",
+    "Text" : "Me he liado con alguien de los aquí presentes",
+    "Spiciness" : 2
+  },
+    
+                 {
+        "Id"  : "22",
+    "Text" : "He tenido pensamientos sexuales sobre alguien aquí presente.",
+    "Spiciness" : 3
+  },
+    
+                     {
+        "Id"  : "23",
+    "Text" : "He puesto los cuernos.",
+    "Spiciness" : 3
+  },
+    
+                         {
+        "Id"  : "24",
+    "Text" : "He hecho anal.",
+    "Spiciness" : 3
+  },
+    
+                             {
+        "Id"  : "25",
+    "Text" : "He hecho una paja/dedos.",
+    "Spiciness" : 3
+  },
+    
+            "Id"  : "26",
+    "Text" : "Me he cuestionado mi sexualidad",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "27",
+    "Text" : "Le he dicho que si a lo primero que se me ha ofrecido porque estaba muy necesitad@",
+    "Spiciness" : 3
+  },
+
+            "Id"  : "28",
+    "Text" : "He enviado un nude",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "29",
+    "Text" : "He usado aplicaciones para ligar online",
+    "Spiciness" : 2
+  },
+  
+            "Id"  : "30",
+    "Text" : "He mentido sobre mi edad para poder ligar",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "31",
+    "Text" : "He estado tan borracho que no me acuerdo de la persona con la que me lié.",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "32",
+    "Text" : "Le he mirado los mensajes a mi pareja.",
+    "Spiciness" : 3
+  },
+
+            "Id"  : "34",
+    "Text" : "He roto la ley",
+    "Spiciness" : 1
+  },
+
+            "Id"  : "35",
+    "Text" : "He tenido resaca",
+    "Spiciness" : 1
+  },
+
+            "Id"  : "36",
+    "Text" : "He me he inventado una excusa para irme de una cita.",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "37",
+    "Text" : "He sido rechazado.",
+    "Spiciness" : 2
+  },
+
+            "Id"  : "38",
+    "Text" : "He jugado a la botella.",
+    "Spiciness" : 1
+  },
+
+            "Id"  : "39",
+    "Text" : "He dormido todo el día.",
+    "Spiciness" : 1
+  },
+
+            "Id"  : "40",
+    "Text" : "He orinado en una piscina.",
+    "Spiciness" : 1
+  },
+
+
   
 
 ]
