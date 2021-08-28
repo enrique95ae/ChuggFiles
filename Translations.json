@@ -137,6 +137,13 @@
     "Key"  : "App.General.EmptyName",
     "ValueEnglish" : "Name can´t be empty!",
     "ValueSpanish" : "No puedes dejar el nombre vacío."
+  },
+  
+                            {
+    "Id" : "021",
+    "Key"  : "App.General.Spiciness",
+    "ValueEnglish" : "Spiciness level",
+    "ValueSpanish" : "Nivel de picante"
   } 
   
 ]
