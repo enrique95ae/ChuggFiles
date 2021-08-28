@@ -144,6 +144,13 @@
     "Key"  : "App.General.Spiciness",
     "ValueEnglish" : "Spiciness level",
     "ValueSpanish" : "Nivel de picante"
+  },
+  
+                              {
+    "Id" : "022",
+    "Key"  : "App.General.Next",
+    "ValueEnglish" : "Next",
+    "ValueSpanish" : "Siguiente"
   } 
   
 ]
