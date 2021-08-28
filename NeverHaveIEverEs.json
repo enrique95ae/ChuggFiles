@@ -1,0 +1,106 @@
+    
+  
+[
+  {
+    "Id"  : "1",
+    "Text" : "Yo nunca he robado nada.",
+    "Spiciness" : 1
+  },
+  
+    {
+    "Id"  : "2",
+    "Text" : "Yo nunca le he dicho a un amig@ que no me encontraba bien para no quedar.",
+    "Spiciness" : 2
+  },
+  
+    {
+    "Id"  : "3",
+    "Text" : "Yo nunca he presumido algo que nunca he hecho o no tengo.",
+    "Spiciness" : 1
+  },
+  
+    {
+    "Id"  : "4",
+    "Text" : "Yo nunca he hecho trampa en un examen.",
+    "Spiciness" : 1
+  },
+    
+        {
+    "Id"  : "5",
+    "Text" : "Yo nunca he dado “like” por accidente a una foto de mi ex.",
+    "Spiciness" : 2
+  },
+    
+        {
+    "Id"  : "6",
+    "Text" : "Yo nunca he olvidado cuantos años tengo.",
+    "Spiciness" : 1
+  },
+    
+        {
+    "Id"  : "7",
+    "Text" : "Yo nunca he mojado la cama más allá de mi niñez.",
+    "Spiciness" : 1
+  },
+    
+        {
+    "Id"  : "8",
+    "Text" : "Yo nunca me he tratado de tirar un pedo silencioso… y terminó siendo ruidoso.",
+    "Spiciness" : 1
+  },
+    
+            {
+    "Id"  : "9",
+    "Text" : "Yo nunca le he hablado a un/a ex estando borrach@.",
+    "Spiciness" : 2
+  },
+    
+                {
+    "Id"  : "10",
+    "Text" : "Yo nunca me he caido en público.",
+    "Spiciness" : 1
+  },
+    
+                    {
+    "Id"  : "11",
+    "Text" : "Yo nunca me he inventado la letra de una canción en una discoteca.",
+    "Spiciness" : 1
+  },
+    
+                        {
+    "Id"  : "12",
+    "Text" : "Yo nunca he finjido que me gustaba el mismo hobby que alguien que me gustaba.",
+    "Spiciness" : 2
+  },
+    
+                            {
+    "Id"  : "13",
+    "Text" : "Yo nunca me he colado en una fiesta a la que no estaba invitado.",
+    "Spiciness" : 1
+  },
+    
+                                {
+    "Id"  : "14",
+    "Text" : "Yo nunca he sido expulsado de un bar o discoteca.",
+    "Spiciness" : 2
+  },
+    
+                                    {
+    "Id"  : "15",
+    "Text" : "Yo nunca he puesto una excusa para no quedar.",
+    "Spiciness" : 2
+  },
+    
+                                        {
+    "Id"  : "16",
+    "Text" : "Yo nunca he dejado a mis amig@s de lado por un ligue.",
+    "Spiciness" : 2
+  },
+    
+        "Id"  : "17",
+    "Text" : "Yo nunca he finjido reirme de una broma que no entiendo.",
+    "Spiciness" : 1
+  },
+  
+
+]
