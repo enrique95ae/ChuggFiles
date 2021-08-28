@@ -150,32 +150,32 @@
     "Text" : "He hecho una paja/dedos.",
     "Spiciness" : 3
   },
-    
+    {    
             "Id"  : "26",
     "Text" : "Me he cuestionado mi sexualidad",
     "Spiciness" : 2
   },
-
+{
             "Id"  : "27",
     "Text" : "Le he dicho que si a lo primero que se me ha ofrecido porque estaba muy necesitad@",
     "Spiciness" : 3
   },
-
+{
             "Id"  : "28",
     "Text" : "He enviado un nude",
     "Spiciness" : 2
   },
-
+{
             "Id"  : "29",
     "Text" : "He usado aplicaciones para ligar online",
     "Spiciness" : 2
   },
-  
+{  
             "Id"  : "30",
     "Text" : "He mentido sobre mi edad para poder ligar",
     "Spiciness" : 2
   },
-
+{
             "Id"  : "31",
     "Text" : "He estado tan borracho que no me acuerdo de la persona con la que me lié.",
     "Spiciness" : 2
@@ -185,41 +185,48 @@
     "Text" : "Le he mirado los mensajes a mi pareja.",
     "Spiciness" : 3
   },
-
+{
             "Id"  : "34",
     "Text" : "He roto la ley",
     "Spiciness" : 1
   },
-
+{
             "Id"  : "35",
     "Text" : "He tenido resaca",
     "Spiciness" : 1
   },
-
+{
             "Id"  : "36",
     "Text" : "He me he inventado una excusa para irme de una cita.",
     "Spiciness" : 2
   },
-
+{
             "Id"  : "37",
     "Text" : "He sido rechazado.",
     "Spiciness" : 2
   },
-
+{
             "Id"  : "38",
     "Text" : "He jugado a la botella.",
     "Spiciness" : 1
   },
 
+{
             "Id"  : "39",
     "Text" : "He dormido todo el día.",
     "Spiciness" : 1
   },
 
+{
             "Id"  : "40",
     "Text" : "He orinado en una piscina.",
     "Spiciness" : 1
   },
+{
+            "Id"  : "41",
+    "Text" : "Me he comido los mocos",
+    "Spiciness" : 1
+  }
 
 
   
